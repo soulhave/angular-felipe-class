@@ -24,6 +24,13 @@ export const products = [
     price: 299,
     description: ''
   }
+  ,
+  {
+    id: 4,
+    name: 'Laptop',
+    price: 200,
+    description: 'Compute to get along you'
+  }
 ];
 
 
